@@ -1,0 +1,36 @@
+body {
+    font-family: Courier, "Lucida Console", monospace;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+
+nav {
+    float: right;
+  }
+  
+  nav a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #fff;
+  }
+.color-square {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
+.rojo {
+    background-color: red   }
+.negro {
+    background-color: black     }
+.azul {
+    background-color: blue     }
+.amarillo {
+    background-color: yellow   }
+.verde {
+    background-color: green     }
